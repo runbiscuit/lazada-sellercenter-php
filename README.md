@@ -1,5 +1,10 @@
-# lazada-sellercenter-php
-PHP library for the Lazada Seller Center API, based off the [official documentation](https://lazada-sellercenter.readme.io/docs).
+# PHP Library for the Lazada Seller Center API (deprecated)
+PHP library for the now deprecated Lazada Seller Center API, based off the [official documentation](https://lazada-sellercenter.readme.io/docs).
+
+## Important Deprecation Notice
+As a move by the Lazada to move on to a more reliable and predictable system, the Lazada Seller Center API will be discontinued on **28th June 2018**, and existing developers building applications on the old API should move on to the [Lazada Open Platform](https://open.lazada.com).
+
+The [PHP Library for the Lazada Open Platform](https://github.com/theroyalstudent/lazada-openplatform-php) will be fully available for usage on 24th June 2018.
 
 ## Requirements
 PHP 5.5 and later.
