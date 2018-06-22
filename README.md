@@ -66,7 +66,7 @@ Please see [https://lazada-sellercenter.readme.io/docs](https://lazada-sellercen
 
 ## Licenses
 
-Copyright (C) 2017 [Edwin A.](https://theroyalstudent.com) <edwin@theroyalstudent.com>
+Copyright (C) 2017 [Edwin A.](https://theroyalstudent.com).
 
 This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
 
